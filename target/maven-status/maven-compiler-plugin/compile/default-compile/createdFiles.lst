@@ -1,0 +1,11 @@
+edu/rmit/cosc2633/s3759621/Assignment1/WordFirstCharMapper.class
+edu/rmit/cosc2633/s3759621/Assignment1/WordLengthExtended.class
+edu/rmit/cosc2633/s3759621/Assignment1/WordLengthMapper.class
+edu/rmit/cosc2633/s3759621/Assignment1/WordLengthReducer.class
+edu/rmit/cosc2633/s3759621/Assignment1/WordLength.class
+edu/rmit/cosc2633/s3759621/Assignment1/GeneralReducer.class
+edu/rmit/cosc2633/s3759621/Assignment1/WordLengthExtendedPartitioner.class
+edu/rmit/cosc2633/s3759621/Assignment1/WordFirstChar.class
+edu/rmit/cosc2633/s3759621/Assignment1/WordCountMapper.class
+edu/rmit/cosc2633/s3759621/Assignment1/WordCount.class
+edu/rmit/cosc2633/s3759621/Assignment1/WordFirstCharReducer.class
